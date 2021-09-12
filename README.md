@@ -1,2 +1,2 @@
 # CSS_Grids
-CSS - Grids (Thinkful Exercise)
+CSS Frameworks - Grids (Thinkful Exercise)
